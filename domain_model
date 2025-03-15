@@ -1,0 +1,18 @@
+digraph {
+	Customer [label="Customer
+- customer_id
+- name
+- email"]
+	Product [label="Product
+- product_id
+- name
+- price"]
+	Order [label="Order
+- order_id
+- customer
+- product
+- quantity
+- total_price"]
+	Customer -> Order [label=places]
+	Order -> Product [label=contains]
+}
