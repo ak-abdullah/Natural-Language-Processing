@@ -1,7 +1,9 @@
 <h1 align="center">🧠 Natural Language Processing Projects</h1>
 
 
+  <p align="center">
   A compilation of practical and theoretical NLP work involving text classification, sequence modeling, machine translation, and transformer-based architectures.
+</p>
 
 
 ---
